@@ -1,0 +1,15 @@
+.pizza-selection, .toppings-selection {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: justify;
+  }
+  
+  .total-price span {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: cadetblue;
+    color: white;
+    margin: 1rem;
+  }
